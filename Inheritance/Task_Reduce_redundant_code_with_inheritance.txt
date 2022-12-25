@@ -1,0 +1,2 @@
+Task:
+Reduce redundant code with inheritance
