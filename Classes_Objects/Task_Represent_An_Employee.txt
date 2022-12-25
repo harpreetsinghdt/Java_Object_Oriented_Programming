@@ -1,0 +1,10 @@
+Task:
+1. Create an Employee class
+2. Attributes: name, age, salary,location
+3. Behavior: raiseSalary
+4. Get creative to do this task
+5. Static vs Non-static - determine members static or non static if any
+6. Create a Main class for building Employee instance
+7. Build two Employee instances
+8. Give one Employee a raise in salary
+9. Display the salary of both Employees
