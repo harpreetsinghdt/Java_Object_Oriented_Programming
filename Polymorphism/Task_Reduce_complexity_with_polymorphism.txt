@@ -1,0 +1,10 @@
+Task:
+Reduce complexity with polymorphism
+- Adding phone contacts
+- You want to add series of contacts to your phone 
+- There are different levels of information about each contact
+- Consider name, phone number, and email
+
+
+= Create a program that allows you to create contacts with different levels of information
+- Print the contact information to the console
